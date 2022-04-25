@@ -7,17 +7,23 @@
 
 1-Description.
 
-2-Project build depended on.
+2-Database Diagram
 
-3-Project Structure.
+3-Project build depended on.
 
-4-Functionality and Endpoints.
+4-Project Structure.
 
-5-Development.
+5-Functionality and Endpoints.
+
+6-Development.
 
 ## Description
 
 This is a backend API build in Nodejs for an online transactions. It exposes a RESTful API that will be used by the frontend developer on the frontend.
+
+## Database Diagram
+
+![Database Diagram](https://user-images.githubusercontent.com/83477647/165020903-a30e038e-bc87-4380-90fd-cd1ddfa6b1f4.PNG)
 
 
 ## Project build depended on
